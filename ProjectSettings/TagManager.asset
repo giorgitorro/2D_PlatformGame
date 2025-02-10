@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Beer
+  - Marlboro
+  - Trap
+  - checkpoint
+  - Boobs
+  - Joker
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG5
+    uniqueID: 966012145
+    locked: 0
+  - name: BG4
+    uniqueID: 206112077
+    locked: 0
+  - name: BG3
+    uniqueID: 1074666495
+    locked: 0
+  - name: BG2
+    uniqueID: 719904773
+    locked: 0
+  - name: Background
+    uniqueID: 1591818635
+    locked: 0
+  - name: stuffs
+    uniqueID: 2783260683
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Terrain
+    uniqueID: 2001651657
+    locked: 0
+  - name: 
+    uniqueID: 2989342489
+    locked: 0
